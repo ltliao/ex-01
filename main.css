@@ -1,0 +1,25 @@
+body{
+    color:#37455c;
+    background: #d0d0d0;
+}
+
+td{
+    background: rgba(42, 48, 88, 0.25);
+    font-size: 20px;
+    font-weight: 200;
+}
+.major{
+    background: rgba(48, 65, 130, 0.37);
+    color: black;
+}
+
+div{
+  border:4px solid white;
+  text-align:center;
+  letter-spacing:1em;
+  line-height:3em;
+}
+
+h1{
+    color:beige;
+}
